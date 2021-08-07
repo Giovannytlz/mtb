@@ -1,1 +1,1 @@
-# mtb
+# mtb node training project
